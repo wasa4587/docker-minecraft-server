@@ -13,6 +13,6 @@ services:
       ENABLE_RCON: "false"
       VERSION: "1.14.4"
       MEMORY: "1G"
-      MAX_MEMORY: "3G"
+      MAX_MEMORY: "1G"
     restart: always
 
